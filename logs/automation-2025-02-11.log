@@ -1,0 +1,70 @@
+16:52:49.084 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\shaik\eclipse-workspace\opencartv1\master.xml
+
+16:53:58.521 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\shaik\eclipse-workspace\opencartv1\master.xml
+
+16:54:00.942 [main] INFO  testCases.TC_004_Search -  Starting TC_004_SearchProductTest 
+16:54:01.472 [main] INFO  testCases.TC_004_Search -  Finished TC_004_SearchProductTest 
+16:54:12.789 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\shaik\eclipse-workspace\opencartv1\master.xml
+
+16:54:14.857 [main] INFO  testCases.TC_004_Search -  Starting TC_004_SearchProductTest 
+16:54:15.288 [main] INFO  testCases.TC_004_Search -  Finished TC_004_SearchProductTest 
+16:55:56.635 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\shaik\eclipse-workspace\opencartv1\master.xml
+
+16:55:58.805 [main] INFO  testCases.TC_005_AddToCartPageTest -  Starting TC_005_AddToCartPageTest 
+16:56:31.245 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\shaik\eclipse-workspace\opencartv1\master.xml
+
+16:56:33.425 [main] INFO  testCases.TC_005_AddToCartPageTest -  Starting TC_005_AddToCartPageTest 
+17:00:31.814 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\shaik\eclipse-workspace\opencartv1\master.xml
+
+17:00:34.093 [main] INFO  testCases.TC_005_AddToCartPageTest -  Starting TC_005_AddToCartPageTest 
+17:01:46.018 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\shaik\eclipse-workspace\opencartv1\master.xml
+
+17:01:48.209 [main] INFO  testCases.TC_005_AddToCartPageTest -  Starting TC_005_AddToCartPageTest 
+17:01:50.111 [main] INFO  testCases.TC_005_AddToCartPageTest -  Finished TC_004_SearchProductTest 
+17:03:31.712 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\shaik\eclipse-workspace\opencartv1\Grouping.xml
+
+17:03:33.915 [main] INFO  testCases.TC_0001_AccountRegister - **** starting TC_0001_AccountRegister ****
+17:03:34.121 [main] INFO  testCases.TC_0001_AccountRegister - clicking on account link
+17:03:34.408 [main] INFO  testCases.TC_0001_AccountRegister - clicking on register link
+17:03:34.410 [main] INFO  testCases.TC_0001_AccountRegister - Filling form
+17:03:35.320 [main] INFO  testCases.TC_0001_AccountRegister - validating expected message
+17:03:35.367 [main] INFO  testCases.TC_0001_AccountRegister - **** finished TC_0001_AccountRegister ****
+17:03:37.250 [main] INFO  testCases.TC_0002_LoginWithValid - **** Starting Login With valid cradantials ****
+17:03:37.251 [main] INFO  testCases.TC_0002_LoginWithValid - Clicking on my account
+17:03:37.385 [main] INFO  testCases.TC_0002_LoginWithValid - Clicking on Login
+17:03:37.602 [main] INFO  testCases.TC_0002_LoginWithValid - Entering valid cradantial
+17:03:37.728 [main] INFO  testCases.TC_0002_LoginWithValid - Click login button
+17:03:38.226 [main] INFO  testCases.TC_0002_LoginWithValid - Validating My Account page
+17:03:38.266 [main] INFO  testCases.TC_0002_LoginWithValid - **** Finished Login With valid cradantial ****
+17:04:07.891 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\shaik\eclipse-workspace\opencartv1\Grouping.xml
+
+17:04:09.995 [main] INFO  testCases.TC_0001_AccountRegister - **** starting TC_0001_AccountRegister ****
+17:04:10.210 [main] INFO  testCases.TC_0001_AccountRegister - clicking on account link
+17:04:10.502 [main] INFO  testCases.TC_0001_AccountRegister - clicking on register link
+17:04:10.504 [main] INFO  testCases.TC_0001_AccountRegister - Filling form
+17:04:11.453 [main] INFO  testCases.TC_0001_AccountRegister - validating expected message
+17:04:11.491 [main] INFO  testCases.TC_0001_AccountRegister - **** finished TC_0001_AccountRegister ****
+17:04:13.469 [main] INFO  testCases.TC_0002_LoginWithValid - **** Starting Login With valid cradantials ****
+17:04:13.469 [main] INFO  testCases.TC_0002_LoginWithValid - Clicking on my account
+17:04:13.613 [main] INFO  testCases.TC_0002_LoginWithValid - Clicking on Login
+17:04:13.849 [main] INFO  testCases.TC_0002_LoginWithValid - Entering valid cradantial
+17:04:13.972 [main] INFO  testCases.TC_0002_LoginWithValid - Click login button
+17:04:14.499 [main] INFO  testCases.TC_0002_LoginWithValid - Validating My Account page
+17:04:14.525 [main] INFO  testCases.TC_0002_LoginWithValid - **** Finished Login With valid cradantial ****
+17:04:49.199 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\shaik\eclipse-workspace\opencartv1\Grouping.xml
+
+17:04:51.360 [main] INFO  testCases.TC_0001_AccountRegister - **** starting TC_0001_AccountRegister ****
+17:04:51.647 [main] INFO  testCases.TC_0001_AccountRegister - clicking on account link
+17:04:51.930 [main] INFO  testCases.TC_0001_AccountRegister - clicking on register link
+17:04:51.931 [main] INFO  testCases.TC_0001_AccountRegister - Filling form
+17:04:52.851 [main] INFO  testCases.TC_0001_AccountRegister - validating expected message

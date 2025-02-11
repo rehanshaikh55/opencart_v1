@@ -19,6 +19,8 @@
      <class name="testCases.TC_0001_AccountRegister"/> 
       <class name="testCases.TC_0002_LoginWithValid"/> 
     <!--  <class name="testCases.TC_0003_LoginWithDDT"/> -->
+     <class name="testCases.TC_004_Search"></class>
+     <class name="testCases.TC_005_AddToCartPageTest"></class>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->

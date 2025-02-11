@@ -54,6 +54,8 @@ public class TC_0001_AccountRegister extends BaseClass {
 	}
 		logger.info("**** finished TC_0001_AccountRegister ****");
 	}
+
+	
 		
 	
 	
