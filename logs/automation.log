@@ -1,0 +1,17 @@
+16:40:57.726 [main] INFO  testCases.TC_0002_LoginWithValid - Entering valid cradantial
+16:40:57.856 [main] INFO  testCases.TC_0002_LoginWithValid - Click login button
+16:40:58.354 [main] INFO  testCases.TC_0002_LoginWithValid - Validating My Account page
+16:40:58.395 [main] INFO  testCases.TC_0002_LoginWithValid - **** Finished Login With valid cradantial ****
+16:54:29.011 [main] INFO  testCases.TC_0001_AccountRegister - **** starting TC_0001_AccountRegister ****
+16:54:29.226 [main] INFO  testCases.TC_0001_AccountRegister - clicking on account link
+16:54:29.552 [main] INFO  testCases.TC_0001_AccountRegister - clicking on register link
+16:54:29.554 [main] INFO  testCases.TC_0001_AccountRegister - Filling form
+16:54:30.656 [main] INFO  testCases.TC_0001_AccountRegister - validating expected message
+16:54:30.686 [main] INFO  testCases.TC_0001_AccountRegister - **** finished TC_0001_AccountRegister ****
+16:54:32.519 [main] INFO  testCases.TC_0002_LoginWithValid - **** Starting Login With valid cradantials ****
+16:54:32.520 [main] INFO  testCases.TC_0002_LoginWithValid - Clicking on my account
+16:54:32.835 [main] INFO  testCases.TC_0002_LoginWithValid - Clicking on Login
+16:54:33.067 [main] INFO  testCases.TC_0002_LoginWithValid - Entering valid cradantial
+16:54:33.197 [main] INFO  testCases.TC_0002_LoginWithValid - Click login button
+16:54:33.793 [main] INFO  testCases.TC_0002_LoginWithValid - Validating My Account page
+16:54:33.829 [main] INFO  testCases.TC_0002_LoginWithValid - **** Finished Login With valid cradantial ****

@@ -1,0 +1,56 @@
+16:36:16.687 [main] INFO  testCases.TC_0003_LoginWithDDT - **** Starting Login With valid cradantials ****
+16:36:16.698 [main] INFO  testCases.TC_0003_LoginWithDDT - Clicking on my account
+16:36:16.740 [main] INFO  testCases.TC_0003_LoginWithDDT - Clicking on Login
+16:36:16.922 [main] INFO  testCases.TC_0003_LoginWithDDT - Entering valid cradantial
+16:36:17.011 [main] INFO  testCases.TC_0003_LoginWithDDT - Click login button
+16:36:17.626 [main] INFO  testCases.TC_0003_LoginWithDDT - Validating My Account page
+16:39:24.553 [main] INFO  testCases.TC_0003_LoginWithDDT - **** Starting Login With valid cradantials ****
+16:39:24.571 [main] INFO  testCases.TC_0003_LoginWithDDT - Clicking on my account
+16:39:24.633 [main] INFO  testCases.TC_0003_LoginWithDDT - Clicking on Login
+16:39:24.835 [main] INFO  testCases.TC_0003_LoginWithDDT - Entering valid cradantial
+16:39:24.955 [main] INFO  testCases.TC_0003_LoginWithDDT - Click login button
+16:39:25.466 [main] INFO  testCases.TC_0003_LoginWithDDT - Validating My Account page
+16:39:25.791 [main] INFO  testCases.TC_0003_LoginWithDDT - **** Finished Login With valid cradantial ****
+16:39:25.801 [main] INFO  testCases.TC_0003_LoginWithDDT - **** Starting Login With valid cradantials ****
+16:39:25.802 [main] INFO  testCases.TC_0003_LoginWithDDT - Clicking on my account
+16:39:25.840 [main] INFO  testCases.TC_0003_LoginWithDDT - Clicking on Login
+16:39:26.023 [main] INFO  testCases.TC_0003_LoginWithDDT - Entering valid cradantial
+16:39:26.117 [main] INFO  testCases.TC_0003_LoginWithDDT - Click login button
+16:39:26.512 [main] INFO  testCases.TC_0003_LoginWithDDT - Validating My Account page
+16:39:29.532 [main] INFO  testCases.TC_0003_LoginWithDDT - **** Finished Login With valid cradantial ****
+16:39:29.533 [main] INFO  testCases.TC_0003_LoginWithDDT - **** Starting Login With valid cradantials ****
+16:39:29.534 [main] INFO  testCases.TC_0003_LoginWithDDT - Clicking on my account
+16:39:29.569 [main] INFO  testCases.TC_0003_LoginWithDDT - Clicking on Login
+16:39:29.775 [main] INFO  testCases.TC_0003_LoginWithDDT - Entering valid cradantial
+16:39:29.868 [main] INFO  testCases.TC_0003_LoginWithDDT - Click login button
+16:39:30.280 [main] INFO  testCases.TC_0003_LoginWithDDT - Validating My Account page
+16:39:33.338 [main] INFO  testCases.TC_0003_LoginWithDDT - **** Finished Login With valid cradantial ****
+16:39:33.340 [main] INFO  testCases.TC_0003_LoginWithDDT - **** Starting Login With valid cradantials ****
+16:39:33.340 [main] INFO  testCases.TC_0003_LoginWithDDT - Clicking on my account
+16:39:33.384 [main] INFO  testCases.TC_0003_LoginWithDDT - Clicking on Login
+16:39:33.565 [main] INFO  testCases.TC_0003_LoginWithDDT - Entering valid cradantial
+16:39:33.666 [main] INFO  testCases.TC_0003_LoginWithDDT - Click login button
+16:39:34.089 [main] INFO  testCases.TC_0003_LoginWithDDT - Validating My Account page
+16:39:37.123 [main] INFO  testCases.TC_0003_LoginWithDDT - **** Finished Login With valid cradantial ****
+16:39:37.125 [main] INFO  testCases.TC_0003_LoginWithDDT - **** Starting Login With valid cradantials ****
+16:39:37.125 [main] INFO  testCases.TC_0003_LoginWithDDT - Clicking on my account
+16:39:37.162 [main] INFO  testCases.TC_0003_LoginWithDDT - Clicking on Login
+16:39:37.386 [main] INFO  testCases.TC_0003_LoginWithDDT - Entering valid cradantial
+16:39:37.485 [main] INFO  testCases.TC_0003_LoginWithDDT - Click login button
+16:39:38.007 [main] INFO  testCases.TC_0003_LoginWithDDT - Validating My Account page
+16:39:38.302 [main] INFO  testCases.TC_0003_LoginWithDDT - **** Finished Login With valid cradantial ****
+16:39:38.304 [main] INFO  testCases.TC_0003_LoginWithDDT - **** Starting Login With valid cradantials ****
+16:39:38.304 [main] INFO  testCases.TC_0003_LoginWithDDT - Clicking on my account
+16:39:38.349 [main] INFO  testCases.TC_0003_LoginWithDDT - Clicking on Login
+16:39:38.534 [main] INFO  testCases.TC_0003_LoginWithDDT - Entering valid cradantial
+16:39:38.619 [main] INFO  testCases.TC_0003_LoginWithDDT - Click login button
+16:39:39.062 [main] INFO  testCases.TC_0003_LoginWithDDT - Validating My Account page
+16:40:54.046 [main] INFO  testCases.TC_0001_AccountRegister - **** starting TC_0001_AccountRegister ****
+16:40:54.332 [main] INFO  testCases.TC_0001_AccountRegister - clicking on account link
+16:40:54.622 [main] INFO  testCases.TC_0001_AccountRegister - clicking on register link
+16:40:54.624 [main] INFO  testCases.TC_0001_AccountRegister - Filling form
+16:40:55.541 [main] INFO  testCases.TC_0001_AccountRegister - validating expected message
+16:40:55.582 [main] INFO  testCases.TC_0001_AccountRegister - **** finished TC_0001_AccountRegister ****
+16:40:57.262 [main] INFO  testCases.TC_0002_LoginWithValid - **** Starting Login With valid cradantials ****
+16:40:57.262 [main] INFO  testCases.TC_0002_LoginWithValid - Clicking on my account
+16:40:57.515 [main] INFO  testCases.TC_0002_LoginWithValid - Clicking on Login
